@@ -1,0 +1,25 @@
+input{
+    background-color: greenyellow;
+}
+
+body{
+    font-size: larger;
+}
+
+
+
+#edad{
+    color: orangered;
+    font-weight: bold;
+    font-size: x-large;
+
+}
+
+label{
+    color: black;
+
+}
+
+.inscribirse{
+    background-color: white;
+}
