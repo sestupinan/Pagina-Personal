@@ -1,0 +1,18 @@
+{
+  "name": "ejercicionode",
+  "version": "1.0.0",
+  "description": "Ejercicio node",
+  "main": "script.js",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "file-system": "^2.2.2",
+    "node-html-parser": "^1.2.20",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Santiago Estupinan",
+  "license": "ISC"
+}
